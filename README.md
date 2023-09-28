@@ -1,5 +1,5 @@
 <h1 style="text-align: center;margin-bottom: 5px;">Hi, I'm Marcio Satin<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;"></h1>
-<h3 style="font-size: 1.2rem; text-align: center;margin: 0 0 20px 0;">Full stack web developer, PHP, Laravel, Javascriptm, Node.js, Vue.js and all the technology behind it...</h3>
+<h3 style="font-size: 1.2rem; text-align: center;margin: 0 0 20px 0;">Full Stack Web Developer, PHP, Laravel, Javascript, Node.js, Vue.js and all the technology behind it...</h3>
 
 <ul style="list-style: none;">
 <li>:seedling: Em constante aprendizado</li>
