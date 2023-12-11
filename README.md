@@ -2,7 +2,7 @@
 <h3 style="font-size: 1.2rem; text-align: center;margin: 0 0 20px 0;">Full Stack Web Developer, PHP, Laravel, Javascript, Node.js, Vue.js and all the technology behind it...</h3>
 
 <ul style="list-style: none;">
-<li>:seedling: Em constante aprendizado</li>
+<li>:seedling: Continuously learning</li>
 <li>:brazil: From Paraná, Brazil</li>
 <li>:metal: Let's Rock n' Roll and Code.</li>
 </ul>
