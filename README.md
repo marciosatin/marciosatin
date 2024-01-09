@@ -9,7 +9,7 @@
 <div align="center">
 <h3>Contact Me :handshake:</h3>
 <a href="https://github.com/marciosatin" target="_blank"><img src="https://img.shields.io/badge/-Marcio_Satin-black?logo=github&style=flat-square" alt="github"/></a>
-<a href="https://linkedin.com/in/marciosatin" target="_blank"><img src="https://img.shields.io/badge/-Marcio_Satin-blue?logo=linkedin&style=flat-square" alt="linkedin"></a>
+<a href="https://linkedin.com/in/marcio-satin" target="_blank"><img src="https://img.shields.io/badge/-Marcio_Satin-blue?logo=linkedin&style=flat-square" alt="linkedin"></a>
 <a href="https://instagram.com/satinmarcio" target="_blank"><img src="https://img.shields.io/badge/-Marcio_Satin-pink?logo=instagram&textColor=white&style=flat-square" alt="instagram"/></a>
 <a href="https://twitter.com/marciosatin" target="_blank"><img src="https://img.shields.io/badge/-Marcio_Satin-blue?logo=twitter&logoColor=white&style=flat-square" alt="twitter"/></a>
 <br/>
